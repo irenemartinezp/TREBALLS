@@ -5,6 +5,6 @@ Llistat de treballs sistemes de representación avançada
 * [CMYK](https://irenemartinezp.github.io/CMYK/)
 * [BROOM](https://irenemartinezp.github.io/BROOM/)
 * [MAQUETACIO](https://irenemartinezp.github.io/maquetacio/)
-* [TARJETES](https://irenemartinezp.github.io/TARJETES-FLEXBOX/)
+* [TARJETES-FLEXBOX](https://irenemartinezp.github.io/TARJETES-FLEXBOX/)
 * [GRID](https://irenemartinezp.github.io/GRID/)
 * [MINIMALISSIMO-SHOP](https://irenemartinezp.github.io/MINIMALISSIMO-SHOP/)
